@@ -1,5 +1,7 @@
 # Interactive C/C++
 
+Making C/C++ attractive by using rapid prototyping tools like you would do with Python
+
 ## xeus-cling
 
 https://github.com/jupyter-xeus/xeus-cling
